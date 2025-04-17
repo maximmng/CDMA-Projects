@@ -1,0 +1,20 @@
+# 📍 CASE 1: Coverage Project
+
+## ✅ Objective
+Identify outlets that have not been visited in the past 3 months.
+
+## 📁 Data
+File: `Outlet_Coverage_Mae.csv`
+
+## 🛠️ Steps
+1. Extracted outlet list (5 dummy outlets)
+2. Marked visit status
+3. Imported into Google My Maps for visualization
+4. Highlighted gaps in coverage
+
+## 📌 Output
+🔗 [Google My Maps link] (paste your map link here after upload)
+
+## 📊 Insights
+- 3 of 5 outlets were unvisited
+- Focus for next route optimization
