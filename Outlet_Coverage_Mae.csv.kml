@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Outlet_Coverage_Mae.csv</name>
+    <NetworkLink>
+      <name>Data Dummy</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1HEbwQTReCOtgn8LmsrOITn43b0QRc3I&lid=zxihmt0G5fE]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
